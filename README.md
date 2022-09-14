@@ -1,3 +1,3 @@
 # Koko Clone 2022
 
-CSS got so much berrer!
+HTML & CSS are so much fun!
